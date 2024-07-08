@@ -129,7 +129,7 @@ const LandingPage = ({ theme }) => {
   const landingPageRef = useNav("Home"); // this is the ref for the navbar
   const showResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1Km1edUkPwaEC1rMMZs7Ge_RW-DoM8VI6/view?usp=drive_link"
+      "https://drive.google.com/file/d/1puhxhbfQj_vLFea5qdB7tPe90yPJc5c4/view"
     );
   };
   return (

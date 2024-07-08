@@ -41,12 +41,12 @@ export const FeaturedProjectsList = [
 export const OtherProjects = [
   {
     id: 8,
-    title: "Cryptoverse",
+    title: "calculator",
     description:
-      "The app will be able to search for Crypto currency via API and render the results to the user.",
-    languages: ["Axios", "millify", "React JS", "chartjs-2"],
-    live: "https://crypto-globe.vercel.app/",
-    github: "https://github.com/aamir-islam/CryptoGlobe",
+      "This project is a calculator built with React. It includes a history panel that can be shown or hidden, stores the calculation history in local storage.",
+    languages: ["React JS", "HTML", "CSS", "JavaScript"],
+    live: "https://history-calculator.netlify.app/",
+    github: "https://github.com/anas-islam3/calculator",
   },
   {
     id: 9,
@@ -55,14 +55,15 @@ export const OtherProjects = [
       "A todo list app that allows users to add, edit, and delete tasks.",
     languages: ["HTML", "CSS", "JavaScript"],
     live: "https://todo-list-tau-gilt.vercel.app/",
-    github: "https://github.com/aamir-islam/Todo-list",
+    github: "https://github.com/anas-islam3/todo-list",
   },
   {
     id: 10,
-    title: "Book-my-flim",
-    description: "A Movie booking app that allows users to book movie ticket",
-    languages: ["React JS", "CSS", "JavaScript", "TypeScript"],
-    live: "https://book-my-flim.netlify.app/",
-    github: "https://github.com/aamir-islam/MovieBookingTS",
+    title: "Random Quote",
+    description:
+      "web application for rendom quote. This project demonstrates basic DOM manipulation and the use of promises to handle asynchronous API requests.",
+    languages: ["HTML", "JavaScript"],
+    live: "#",
+    github: "https://github.com/anas-islam3/random_quote",
   },
 ];
